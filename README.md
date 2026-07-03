@@ -137,6 +137,8 @@ Build the following routes:
 ---
 
 ### Task 4: Document and Maintain
+<img width="1380" height="717" alt="Screenshot from 2026-07-03 18-12-54" src="https://github.com/user-attachments/assets/24496917-0560-456f-8f5d-5e52dc230c74" />
+
 
 #### Best Practices:
 
